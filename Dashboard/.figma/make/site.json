@@ -1,0 +1,10 @@
+{
+  "description": "A learning platform for institutes to manage courses, students, live classes, and revenue while helping learners track progress, build streaks, and stay motivated.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

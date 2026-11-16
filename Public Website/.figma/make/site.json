@@ -1,0 +1,11 @@
+{
+  "title": "LearnIsphere — Learn. Build. Grow.",
+  "description": "A global learning platform where students discover and purchase career-focused courses, learn online, track progress, complete assessments, and earn certificates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
